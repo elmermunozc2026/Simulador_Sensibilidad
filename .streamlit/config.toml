@@ -1,15 +1,2 @@
 [theme]
-# Color de fondo principal de la aplicación
-backgroundColor = "#1E1E1E" 
-
-# Color de fondo secundario (como la barra lateral)
-secondaryBackgroundColor = "#2D2D2D"
-
-# Color del texto principal (títulos, etiquetas)
-textColor = "#FFFFFF"
-
-# Color de énfasis (botones, enlaces, etc.)
-primaryColor = "#FF4B4B"
-
-# Fuente tipográfica (opciones: "sans serif", "serif", "monospace")
-font = "sans serif"
+base = "dark"
