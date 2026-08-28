@@ -1,3 +1,4 @@
-matplotlib
-google-generativeai
 streamlit
+google-generativeai
+matplotlib
+seaborn
